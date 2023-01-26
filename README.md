@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="images/github-banner.png? raw=true" align="center" width=100% height=50% />
+<img src="github-banner.png? raw=true" align="center" width=100% height=50% />
 </div> 
 
 ## 💁‍♂️ About me
