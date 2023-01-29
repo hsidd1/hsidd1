@@ -12,45 +12,49 @@
 ## 🛠️ My Skills
 
 ### 👨‍💻 Languages
-|  |
-| :--- |
-| Python |
-| C++ |
-| C |
-| Verilog |
-| MATLAB |
-| JavaScript |
-| HTML |
-| CSS |
+
+- 🐍 Python
+- 💻 C++
+- 🔨 C
+- 🔧Assembly (ARM Cortex-M4F)
+- 🔌 Verilog
+- 📚 MATLAB
+- 🖥 JavaScript
+- 🔗 HTML
+- 🎨 CSS
+
 
 ### 🧰 Tools, Libraries and Frameworks
-|  |
-| :--- |
-| NumPy |
-| Pandas |
-| Matplotlib |
-| Tkinter |
-| Tensorflow |
-| OpenCV |
-| ReactJS |
-| Django |
+
+- 🔢 [NumPy](http://www.numpy.org/)
+- 📊 [Pandas](http://pandas.pydata.org/)
+- 📈 [Matplotlib](https://matplotlib.org/)
+- 🎨 [Tkinter](https://docs.python.org/3/library/tkinter.html)
+- 🚀 [Tensorflow](https://www.tensorflow.org/)
+- 📷 [OpenCV](https://opencv.org/)
+- ☢️ [ReactJS](https://reactjs.org/)
+- 📚 [Django](https://www.djangoproject.com/)
+
 
 ### 💻 Software and tools
-||
-| :--- |
-| Git |
-| Visual Studio |
-| Linux |
-| Visual Studio Code |
-| Eclipse |
+- 💻 Git
+- 🛠️ Visual Studio
+- 🐧 Linux
+- 📝 Visual Studio Code
+- 💻 Eclipse
+- 🔨 Keil uVision
+- 🔌 Quartus II
+- 📒 Jupyter Notebook
+- 📚 Google Colab
+
 
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats-sigma-five.vercel.app/api?username=Micnasr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Micnasr's Github Stats"
+    <a align="center" href="https://github-readme-stats-sigma-five.vercel.app/api?username=hsidd1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Hamza's Github Stats"
                     src="https://github-readme-stats-sigma-five.vercel.app/api?username=hsidd1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a align="center" href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micnasr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="karimcambridge's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hsidd1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <img alt="Hamza's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hsidd1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 <br></br>
