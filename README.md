@@ -55,10 +55,11 @@
 <p>
     <a align="center" href="https://github-readme-stats-sigma-five.vercel.app/api?username=hsidd1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Hamza's Github Stats"
                     src="https://github-readme-stats-sigma-five.vercel.app/api?username=hsidd1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-<!---
+
   <a align="center" href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hsidd1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="Hamza's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hsidd1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-   -->
+    
+ ![Profile Views](https://komarev.com/ghpvc/?username=hsidd1)
 
 </p>
 </div>
