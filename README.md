@@ -24,7 +24,7 @@
 - 🎨 CSS
 
 
-### 🧰 Tools, Libraries and Frameworks
+### 🧰 Libraries and Frameworks
 
 - 🔢 [NumPy](http://www.numpy.org/)
 - 📊 [Pandas](http://pandas.pydata.org/)
@@ -48,7 +48,6 @@
 - 📚 Google Colab
 
 
-
 ## 📊 Github stats
 
 <div align="center">
@@ -64,7 +63,6 @@
 </p>
 </div>
 
-<br></br>
 ## 📧 Contact Me 
 <div align="center">
  
