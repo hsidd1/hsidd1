@@ -5,10 +5,13 @@
 
 ## 💁‍♂️ About me
 
-* Hey, I'm Hamza! :wave:	
-* I'm a Computer Engineering student at McMaster University :bulb:	
-* I enjoy working with microcontrollers, SBCs, circuit design, digital and analog signal processing, embedded systems, and computer systems. :computer:
+* :bulb: Hey, I'm Hamza! :wave: I'm a Computer Engineering student at McMaster University and have experience working as a Computer Vision Intern for the Centre of Excellence for Artificial Intelligence and Smart Mobility 	
+* :computer: I enjoy working on projects that integrate various languages and toolboxes with smart devices and microprocessors
+* :zap: Check out my skills under the "Details" drop down below, as well as my [featured repositories](https://github.com/stars/hsidd1/lists/featured-stuff-by-me)
 
+
+<details>
+    
 ## 🛠️ My Skills
 <div align="center">
 
@@ -75,6 +78,7 @@
 [![Analog Discovery 2](https://img.shields.io/badge/Analog%20Discovery%202-gray?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAABlBMVEUAAAD//////9VfPVfAAAAA3RSTlMAfzDZpAAAAJZJREFUeNpjYBgFhgXsUOy6q/CBq/YbPYvJr+zrL/IrP8zTQzCEGLRmUJXOy6q/UqOjDRU+I/CrDP0/LZr+AzE2mI+RGC/2QXJYuAFM8IgWAmKWv42ysDAzNwMjJ8c1+GJvYYgL5+5DpghCn5kW/jExAgIMixbYMDEwML1ZgIFRAITFnJYKB4VcSIoILy4JEnFlMhcRBuLiYSQQDUKwSKkgGAAE3IAAMwhgCo9gPL5KjDQCkICeAuhAaM2QgFwJ0wHgTGcNAAEZGGcShA4A4mBQkHQwkLIkgkGEGDWQWwETAEJkZmApB7vww8lAAAAAElFTkSuQmCC)](https://www.digilentinc.com/products/instrumentation/analog-discovery-2/)
 </div>
 
+    
 ## 📊 Github stats
 
 <div align="center">
@@ -95,6 +99,7 @@
 
 </p>
 </div>
+</details>
 
 ## 📧 Contact Me 
 <div align="center">
