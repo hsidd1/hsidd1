@@ -5,7 +5,7 @@
 
 ## 💁‍♂️ About me
 
-* :bulb: Hey, I'm Hamza! :wave: I'm a Computer Engineering student at McMaster University and have experience working as a Computer Vision Intern for the Centre of Excellence for Artificial Intelligence and Smart Mobility 	
+* :bulb: Hey, I'm Hamza! :wave: I'm a Computer Engineering student at McMaster University and have experience working as a Computer Vision Researcher for the Centre of Excellence for Artificial Intelligence and Smart Mobility 	
 * :computer: I enjoy working on projects that integrate various languages and toolboxes with smart devices and microprocessors
 * :zap: Check out my skills under the "Details" drop down below, as well as my [featured repositories](https://github.com/stars/hsidd1/lists/featured-stuff-by-me)
 
