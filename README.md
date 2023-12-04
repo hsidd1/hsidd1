@@ -1,13 +1,14 @@
 
+<!--
 <div align="center", style="overflow-x: auto;">
 <img src="github-banner.png? raw=true" align="center" style="width: 100%;"/>
 </div> 
-
+-->
 ## 💁‍♂️ About me
 
 * :bulb: Hey, I'm Hamza! :wave: I'm a Computer Engineering student at McMaster University and have experience working as a Computer Vision Researcher for the Centre of Excellence for Artificial Intelligence and Smart Mobility 	
 * :computer: I enjoy working on projects that integrate various languages and toolboxes with smart devices and microprocessors
-* :zap: Check out my skills under the "Details" drop down below, as well as my **[Featured Repositories](https://github.com/stars/hsidd1/lists/featured-stuff-by-me)**
+* :zap: Check out my skills under the "Details" drop down below, as well as my **[Featured Repositories](https://github.com/stars/hsidd1/lists/featured)**
 
 
 <details>
