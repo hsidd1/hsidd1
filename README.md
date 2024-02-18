@@ -1,16 +1,16 @@
 
 <!--
 <div align="center", style="overflow-x: auto;">
-<img src="github-banner.png? raw=true" align="center" style="width: 100%;"/>
+<img src="github-banner.png? raw=true" align="center" style="width: 100%;"/> 💁‍♂️
 </div> 
 -->
-## 💁‍♂️ About me
+## :octocat: About Me
 
-* :bulb: Hey, I'm Hamza! :wave: I'm a Computer Engineering student at McMaster University and have experience working as a Computer Vision Researcher and Developer for the Centre of Excellence for Artificial Intelligence and Smart Mobility 	
-* :computer: I enjoy working on projects that integrate various languages and toolboxes with smart devices and microprocessors
-* :zap: Check out my skills under the "Details" drop down below, as well as my **[Featured Repositories](https://github.com/stars/hsidd1/lists/featured)**
+* :bulb: Hey, I'm Hamza! :wave: I'm a Computer Engineering student at McMaster University, currently working as a Firmware Developer for next generation PAM4 SerDes PCIe6 PHY at Synopsys.
+* :computer: Previously, I've worked as a Researcher and Developer for future smart IoT systems used in transportation systems, at the Centre of Excellence in Artificial Intelligence and Smart Mobility research space. I am also involved in my University's Formula Electric Software & Vehicle Controls Team.
+* :zap: Check out some of the things I've worked on: **[Featured Repositories](https://github.com/stars/hsidd1/lists/featured)**
 
-
+<!--
 <details>
     
 ## 🛠️ My Skills
@@ -101,7 +101,7 @@
 </p>
 </div>
 </details>
-
+-->
 ## 📧 Contact Me: &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Hamza%20Siddiqui-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-siddiqui1/)](https://www.linkedin.com/in/hamza-siddiqui1/)
 <!--
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" align="center" style="width: 100%;" theme=tokyonight/>
