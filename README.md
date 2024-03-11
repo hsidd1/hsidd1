@@ -5,11 +5,12 @@
 </div> 
 -->
 ## :octocat: About Me
-
+* :bulb: Hey, I'm Hamza! :wave: I'm studying Computer Engineering at McMaster University. Feel free to browse around
+<!--
 * :bulb: Hey, I'm Hamza! :wave: I'm a Computer Engineering student at McMaster University, currently working as a Firmware Developer for next generation PAM4 SerDes PCIe6 PHY at Synopsys.
 * :computer: Previously, I've worked as a Researcher and Developer for future smart IoT systems used in transportation systems, at the Centre of Excellence in Artificial Intelligence and Smart Mobility research space. I am also involved in my University's Formula Electric Software & Vehicle Controls Team.
 * :zap: Check out some of the things I've worked on: **[Featured Repositories](https://github.com/stars/hsidd1/lists/featured)**
-
+-->
 <!--
 <details>
     
